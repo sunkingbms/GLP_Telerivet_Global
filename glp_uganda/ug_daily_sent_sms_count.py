@@ -142,4 +142,4 @@ UG_PROJECT_ID = "PJ951527fbf8258b5e"
 failed_messages = get_failed_messages_count(API_KEY, UG_PROJECT_ID)
 save_to_sheets = save_to_sheets(failed_messages)
 print(failed_messages)
-print(save_to_sheets)
+print(save_to_sheets) 

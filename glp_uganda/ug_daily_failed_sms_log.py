@@ -148,6 +148,6 @@ def save_to_sheets(data):
     print(err)
 
 # Colling all the functions written above
-save_to_sheets = save_to_sheets(error_counts)
+save_to_sheets = save_to_sheets(error_counts) 
 
 
