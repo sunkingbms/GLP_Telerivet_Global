@@ -135,8 +135,8 @@ def save_to_sheets(data):
     print(err)
 
 # Important keys to be deleted on Github
-API_KEY = "Kldps_2TelsJ2O7PKrePmB7tWDk8ZxAUawxs"
-KEN_PROJECT_ID = "PJfea0e3ae2d40f54d"
+API_KEY = ""
+KEN_PROJECT_ID = ""
 
 # Calling all the functions written above
 failed_messages = get_failed_messages_count(API_KEY, KEN_PROJECT_ID)
